@@ -14,8 +14,8 @@ void drawingLine() {
 		Yend = Yend * 10.0;
 	}
 
-	std::cout << Xstart << " , " << Ystart << std::endl;
-	std::cout << Xend << " , " << Yend << std::endl;
+	//std::cout << Xstart << " , " << Ystart << std::endl;
+	//std::cout << Xend << " , " << Yend << std::endl;
 
 	int dx = Xend - Xstart;
 	int dy = Yend - Ystart;
