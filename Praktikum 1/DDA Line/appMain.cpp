@@ -49,7 +49,6 @@ void init() {
 	glClearColor(1.0, 1.0, 1.0, 0.0);
 	glPointSize(3.0);
 	glMatrixMode(GL_PROJECTION);
-	glTranslated(5.0, 2.0, 1.0);
 	glLoadIdentity();
 	gluOrtho2D(0, 640, 0, 480);
 }
