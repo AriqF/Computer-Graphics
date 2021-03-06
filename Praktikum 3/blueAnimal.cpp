@@ -7,7 +7,7 @@ int const centerX = ww / 2, centerY = wh / 2;
 
 float theta;
 int angle = 180; //set to 360 to make half circle
-float multiplierAngle = 1.5; //set to 1 to make circle
+float multiplierAngle = 1.5; // 1 to make circle 
 GLfloat x, y;
 
 void init() {
